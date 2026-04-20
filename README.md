@@ -18,17 +18,17 @@ The goal is to convert raw text into actionable insights for hotel management an
 ---
 
 ## Pipeline Architecture
-Raw Reviews
-↓
-Text Preprocessing
-↓
-Sentiment Analysis (DeBERTaV3)
-↓
-Aspect Extraction (POS Tagging)
-↓
-Summarization (BART)
-↓
-Structured Insights
+    Raw Reviews
+        ↓
+    Text Preprocessing
+        ↓
+    Sentiment Analysis (DeBERTaV3)
+        ↓
+    Aspect Extraction (POS Tagging)
+        ↓   
+    Summarization (BART)
+        ↓
+    Structured Insights
 
 
 ---
