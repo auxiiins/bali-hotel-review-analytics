@@ -103,7 +103,7 @@ BART (Bidirectional and Auto-Regressive Transformers) is used to generate concis
 
 ## 📁 Project Structure
     ├── Bali_Hotel_Review_Analytics.ipynb # Main notebook
-    ├── data/ # Sample dataset (optional)
+    ├── data/ # Sample dataset 
     ├── outputs/ # Generated predictions & summaries
     ├── requirements.txt # Dependencies
     └── README.md
