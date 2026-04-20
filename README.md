@@ -109,17 +109,23 @@ BART (Bidirectional and Auto-Regressive Transformers) is used to generate concis
     └── README.md
 
 
+
 ---
 
-## How to Run
+## 🚀 How to Run
 
 1. Clone the repository
+```bash
 git clone https://github.com/your-username/bali-hotel-review-analytics.git
 cd bali-hotel-review-analytics
-
+```
 
 2. Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
 3. Open notebook
+```bash
 jupyter notebook
+```
