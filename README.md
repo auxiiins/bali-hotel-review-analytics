@@ -35,7 +35,7 @@ The goal is to convert raw text into actionable insights for hotel management an
 
 ## Methods & Models
 
-### Sentiment Analysis — DeBERTaV3
+### Sentiment Analysis - DeBERTaV3
 A transformer-based model used to classify the emotional tone of each review.
 
 - Model: DeBERTaV3
@@ -48,7 +48,7 @@ Why DeBERTaV3?
 
 ---
 
-### Aspect Extraction — POS Tagging
+### Aspect Extraction - POS Tagging
 Parts-of-Speech tagging is used to identify important features mentioned in reviews such as:
 
 - Staff
@@ -70,7 +70,7 @@ BART (Bidirectional and Auto-Regressive Transformers) is used to generate concis
 
 ---
 
-## 📊 Example Output
+## Example Output
 
 ### Input Review:
 > "The staff were incredibly friendly, but the room was not very clean and had a bad smell."
@@ -101,7 +101,7 @@ BART (Bidirectional and Auto-Regressive Transformers) is used to generate concis
 
 ---
 
-## 📁 Project Structure
+## Project Structure
     ├── Bali_Hotel_Review_Analytics.ipynb # Main notebook
     ├── data/ # Sample dataset 
     ├── outputs/ # Generated predictions & summaries
@@ -112,7 +112,7 @@ BART (Bidirectional and Auto-Regressive Transformers) is used to generate concis
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 ```bash
